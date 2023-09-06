@@ -14,10 +14,10 @@ Access our [**exclusive telegram channel**](https://bit.ly/canalerickwendel) so 
   - It recognizes, single hand gestures 🖐,👊,✌️,👍🏻 and the multigesture 🙅
 
 
-## Have fun!
-![THUMB---JS-EXPERTPrancheta-1](https://user-images.githubusercontent.com/8060102/219484100-3b362e7a-6a2f-4df9-b4ce-d3be64a0964a.png)
+
 
 ## References:
+- https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs.git
 - https://github.com/ErickWendel/fingerpose
 - Rock, Paper & Scissors: https://github.com/andypotato/rock-paper-scissors
 - Pacman: https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html
